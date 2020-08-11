@@ -1,5 +1,5 @@
 # YQChart
-一个简单易用的绘图
+一个简单易用的绘图,折线图、曲线图、柱状图。支持动画、颜色渐变、滑动。
 # 效果图
 ![](https://github.com/iOSdeveloperAtKYQ/YQChart/blob/master/效果图/效果图.gif)
 # 使用方法
